@@ -15,7 +15,7 @@ A non-intrusive JavaScript utility that safely swaps "Reference" and "Community"
 - Dark/Light mode support
 
 ## License 📄
-This project is licensed under the MIT License - see the [![License](https://github.com/jahid123978/react-nav-swapper?tab=MIT-1-ov-file)] file for details.
+This project is licensed under the MIT License - see the [[License](https://github.com/jahid123978/react-nav-swapper?tab=MIT-1-ov-file)] file for details.
 
 ### Browser Console Method
 ```javascript
