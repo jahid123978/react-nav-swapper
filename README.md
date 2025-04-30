@@ -19,5 +19,5 @@ This project is licensed under the MIT License - see the [[License](https://gith
 ### Browser Console Method
 ```javascript
 // Copy and paste this into browser console on react.dev
-// then it will swap reference and commuity menu place without breaking any UI and layout damage
+// This script swaps the Reference and Community menu items’ positions without breaking the UI or causing any layout issues.
 (function(){...})();
