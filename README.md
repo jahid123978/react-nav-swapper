@@ -12,10 +12,6 @@ A non-intrusive JavaScript utility that safely swaps "Reference" and "Community"
 - Preserves original website functionality
 - Graceful error handling
 - Cross-browser compatibility
-- Dark/Light mode support
-
-## License 📄
-This project is licensed under the MIT License - see the [[License](https://github.com/jahid123978/react-nav-swapper?tab=MIT-1-ov-file)] file for details.
 
 ### Browser Console Method
 ```javascript
@@ -23,3 +19,5 @@ This project is licensed under the MIT License - see the [[License](https://gith
 // then it will swap reference and commuity menu place without breaking any UI and layout damage
 (function(){...})();
 
+## License 📄
+This project is licensed under the MIT License - see the [[License](https://github.com/jahid123978/react-nav-swapper?tab=MIT-1-ov-file)] file for details.
